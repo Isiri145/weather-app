@@ -13,7 +13,7 @@ This app is built with HTML, CSS, and JavaScript. It fetches data from a weather
 🌍 How It Works<br>
 • Enter the name of a city in the search bar.<br>
 • The app fetches real-time weather data using a weather API.<br>
-• View the city's current temperature, weather condition, and more!<br>
+• View the city's current temperature, weather condition, and more!<br><br>
 🔗 Demo<br>
 • Check out the live version of the app here (Add the GitHub Pages or hosting link here).<br><br>
 
