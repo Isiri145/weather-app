@@ -14,7 +14,7 @@ This is a responsive web application that provides real-time weather updates for
 • The app fetches real-time weather data using a weather API.<br>
 • View the city's current temperature, weather condition, and more!<br><br>
 🔗 Demo<br>
-• #Check out the live version of the app here (https://isiri145.github.io/weather-app/).<br><br>
+• Check out the live version of the app here (https://isiri145.github.io/weather-app/).<br><br>
 
 
 ![image](https://github.com/user-attachments/assets/b07a43d4-2797-450a-8b5a-87dc087511d4)
